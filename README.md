@@ -28,4 +28,4 @@ Bosch, Sumabat, Hafezi, Pellock, Gandhi, and Hariharan. Elife. 2014 [![alt text]
 Worley, Setiawan, and Hariharan. Development. 2013 [![alt text](https://github.com/HariharanLab/in_progress/blob/master/icons8-link-24.png?raw=true)](https://journals.biologists.com/dev/article/140/15/3275/45847/TIE-DYE-a-combinatorial-marking-system-to)
 ---
 
-See pubmed for additional publications
+See [(PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=Hariharan+IK&show_snippets=off&sort=pubdate) for additional publications
