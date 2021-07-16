@@ -1,6 +1,6 @@
 # Hariharan Lab
 
-Recent publications (continued)
+Recent publications [(continued)](https://github.com/HariharanLab/HariharanLab/blob/main/README.md)
 
 * **The BMP2/4 ortholog Dpp can function as an inter-organ signal that regulates developmental timing.**\
 Setiawan, Pan, Woods, O'Connor, and Hariharan. Life Sci Alliance. 2018 [![alt text](https://github.com/HariharanLab/in_progress/blob/master/icons8-link-24.png?raw=true)](https://www.life-science-alliance.org/content/1/6/e201800216)
