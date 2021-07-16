@@ -2,6 +2,7 @@
 
 Recent publications [(continued)](https://github.com/HariharanLab/HariharanLab/blob/main/README.md)
 
+---
 * **The BMP2/4 ortholog Dpp can function as an inter-organ signal that regulates developmental timing.**\
 Setiawan, Pan, Woods, O'Connor, and Hariharan. Life Sci Alliance. 2018 [![alt text](https://github.com/HariharanLab/in_progress/blob/master/icons8-link-24.png?raw=true)](https://www.life-science-alliance.org/content/1/6/e201800216)
 ---
@@ -25,3 +26,6 @@ Bosch, Sumabat, Hafezi, Pellock, Gandhi, and Hariharan. Elife. 2014 [![alt text]
 ---
 * **TIE-DYE: a combinatorial marking system to visualize and genetically manipulate clones during development in *Drosophila melanogaster*.**
 Worley, Setiawan, and Hariharan. Development. 2013 [![alt text](https://github.com/HariharanLab/in_progress/blob/master/icons8-link-24.png?raw=true)](https://journals.biologists.com/dev/article/140/15/3275/45847/TIE-DYE-a-combinatorial-marking-system-to)
+---
+
+See pubmed for additional publications
